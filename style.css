@@ -1,0 +1,26 @@
+.background{
+    background-color: #FEEAE9;
+}
+.aa{
+    margin-top: 100px;
+}
+.color-watch{
+    background-color: #FF9C35;
+}
+.color-bag{
+    background-color: #FF589B;
+}
+.color-shoes{
+    background-color: #4289FF;
+}
+.button-color{
+    background-color: #FF589B;
+    border-radius: 4px;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.shoes{
+    background-color:#F4F4F4;
+}
